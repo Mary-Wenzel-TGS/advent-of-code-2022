@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code-2022",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "- advent of code 2022\r - https://adventofcode.com/",
+  "main": "day-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mary-Wenzel-TGS/advent-of-code-2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mary-Wenzel-TGS/advent-of-code-2022/issues"
+  },
+  "homepage": "https://github.com/Mary-Wenzel-TGS/advent-of-code-2022#readme"
+}
